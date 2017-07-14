@@ -1,5 +1,5 @@
 {
-  "name": "djangson/qqthirdlogin-sdk",
+  "name": "djangson/qqthirdlogin",
   "type": "library",
   "description": "QQ third login SDK",
   "keywords": ["qq", "third login", "sdk"],
