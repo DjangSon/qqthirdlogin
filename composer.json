@@ -4,13 +4,6 @@
   "description": "QQ third login SDK",
   "keywords": ["qq", "third login", "sdk"],
   "license": "MIT",
-  "authors": [
-	{
-	  "name": "Qiniu",
-	  "email": "sdk@qiniu.com",
-	  "homepage": "http://www.qiniu.com"
-	}
-  ],
   "require": {
 	"php": ">=5.4.3"
   },
